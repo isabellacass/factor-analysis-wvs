@@ -6,4 +6,4 @@
 # Used Eigenvectors and scree plot to determine number of factors to be extracted
 # Examined factor loadings and assessed fit to determine best number of factors to be extracted
 # Refined factor differentiation using rotation (orthagonal or oblique)
-# Comparde relative factor loading and factor stability between different number of factors
+# Compared relative factor loading and factor stability between different number of factors
